@@ -1,0 +1,2 @@
+# shadow-path
+CGContextBeginPath
